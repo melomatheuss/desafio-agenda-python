@@ -27,8 +27,11 @@ Navegue até a pasta do projeto:
 cd seu_repositorio
 
 Execute o script Python:
+      ```bash
 
-python3 agenda.py
+       python3 agenda.py
+
+
 
 Siga as instruções do menu para gerenciar seus contatos.
 
@@ -54,7 +57,7 @@ Estrutura do código
         
 Requisitos
 
-    Python 3.x
+    Python 3.9 +
 
 Possíveis melhorias futuras
 
